@@ -64,4 +64,20 @@ Plotted trends of average wind speed and temperature over time.
 ---
 
 ## 📂 Project Structure
+📁 kakinada-wind-analysis/
+├── kakinada_wind_data.csv # Raw dataset
+├── kakinada_cleaned_wind_data.csv # Cleaned dataset
+├── wind_data_cleaning_eda.ipynb # Jupyter Notebook with code
+└── README.md # Project documentation
+
+---
+
+## 📌 Notes
+
+This project focuses exclusively on **data cleaning and initial exploration**. Future phases will involve model-building, forecasting, and sustainability-driven decision insights for the Kakinada region.
+
+---
+
+> 🚀 Stay tuned for **Part 2**, where we analyze trends and forecast wind energy potential.
+
 
