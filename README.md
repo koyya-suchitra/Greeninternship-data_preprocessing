@@ -15,8 +15,11 @@ The raw dataset was sourced from [meteostat.net](https://meteostat.net/en/place/
 
 ## 🧠 Team Members
 
-- **Koyya Suchitra**
-- **Jogi Rohith Kumar**
+- **Koyya Suchitra**  
+  [GitHub](https://github.com/koyya-suchitra) | [LinkedIn](https://www.linkedin.com/in/suchitra-koyya-605a242b5/)
+
+- **Jogi Rohith Kumar**  
+  [GitHub](https://github.com/JogiRohithKumar) | [LinkedIn](https://www.linkedin.com/in/rohith-kumar-jogi-747a782b8/)
 
 Team Size: **2**
 
